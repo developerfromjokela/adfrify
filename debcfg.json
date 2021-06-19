@@ -1,0 +1,7 @@
+{
+  "dest": "pkg/linux/",
+  "icon": "icon.png",
+  "categories": [
+    "Sound & Video"
+  ]
+}
